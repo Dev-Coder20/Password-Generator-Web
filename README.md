@@ -19,7 +19,7 @@ This is a simple web application built using Flask, HTML, CSS, and JavaScript th
    To get started, clone the repository:
    ```bash
    git clone https://github.com/Dev-Coder20/Password-Generator-Web.git
-   cd password-generator-flask
+   cd Password-Generator-We
    ```
 
 2. **Install Dependencies**  
